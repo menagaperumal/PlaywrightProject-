@@ -8,7 +8,7 @@ import { HomePage } from '../PageObjects/HomePage';
 
 //Load JSON test data logindata.json
 
-const jsonPath="testdata/logindata.json";
+const jsonPath="testData/logindata.json";
 const jsonTestData=DataProvider.getTestDataFromJson(jsonPath);
 
 
